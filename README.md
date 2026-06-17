@@ -104,8 +104,8 @@ Plataforma e-commerce desarrollada para la comercialización de equipos y elemen
 ## 📫 Contacto
 
 * GitHub: https://github.com/alphaplus14
-* LinkedIn: Agrega aquí tu perfil
-* Email: Agrega aquí tu correo
+* LinkedIn: https://www.linkedin.com/in/cesar-rodas-2212b32b2/
+* Email: cesarrodas113@gmail.com
 
 ---
 
