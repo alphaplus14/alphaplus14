@@ -29,7 +29,7 @@ Desarrollador de software Full Stack, actualmente finalizando mi etapa lectiva e
 
 ## 📌 Proyectos Destacados
 
-- 🎯 **[kahoot](https://github.com/alphaplus14/kahoot)** — Plataforma web tipo quiz de opción múltiple para poner a prueba conocimientos de cultura general.
+- 🎯 **[Yesapregunta](https://github.com/alphaplus14/kahoot)** — Plataforma web tipo quiz de opción múltiple para poner a prueba conocimientos de cultura general.
 - 🌐 **[Landingpages](https://github.com/alphaplus14/Landingpages)** — Landing page que centraliza el acceso a juegos desarrollados durante la ficha ADSO.
 - 💼 **[PortafolioPersonal](https://github.com/alphaplus14/PortafolioPersonal)** — Mi portafolio como Desarrollador Full Stack, construido con React, Node.js y C#.
 - 📚 **[senaLibrary](https://github.com/alphaplus14/senaLibrary)** — Sistema web de gestión de biblioteca en PHP/MySQL, con reportes en PDF/Excel.
