@@ -4,7 +4,9 @@ Desarrollador de software Full Stack, actualmente finalizando mi etapa lectiva e
 
 ## 🚀 Sobre mí
 
-- 💻 Trabajo principalmente con **Laravel/PHP**, **React**, **Node.js** y **C#**
+- 💻 Trabajo principalmente con **Laravel/PHP**, **React**, **Node.js/Express** y **C#**
+- 🔌 Experiencia diseñando y consumiendo **APIs RESTful**
+- 🤖 Uso herramientas de IA como **Cursor** para acelerar mi flujo de desarrollo
 - 🌱 Me apasiona la optimización de procesos y la experiencia de usuario (UX)
 - 🎯 Actualmente desarrollando **PrimaveraAPP** (digitalización agrícola) y **Abalturas** (e-commerce B2B con WooCommerce)
 - 🎮 Creador de **"¿Y esa pregunta?"**, un juego de trivia multijugador online
@@ -18,6 +20,7 @@ Desarrollador de software Full Stack, actualmente finalizando mi etapa lectiva e
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
