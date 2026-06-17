@@ -74,9 +74,9 @@ Plataforma e-commerce desarrollada para la comercialización de equipos y elemen
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alphaplus14\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alphaplus14&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alphaplus14\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alphaplus14&layout=compact&theme=tokyonight)
 
 ---
 
