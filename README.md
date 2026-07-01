@@ -9,7 +9,7 @@ Desarrollador de software Full Stack, actualmente finalizando mi etapa lectiva e
 - 🤖 Uso herramientas de IA como **Cursor** para acelerar mi flujo de desarrollo
 - 🌱 Me apasiona la optimización de procesos y la experiencia de usuario (UX)
 - 🎯 Actualmente desarrollando **PrimaveraAPP** (digitalización agrícola) y **Abalturas** (e-commerce B2B con WooCommerce)
-- 🎮 Creador de **"¿Y esa pregunta?"**, un juego de trivia multijugador online
+- 🎮 Creador de **"¿Y esa pregunta?"**, un juego de trivia multijugador online que se encuentra disponible en todos los SENA a nivel Nacional.
 - ⚽ Cuando no estoy programando, sigo el fútbol y entreno en el gimnasio
 - 🇨🇴 Con base en Colombia
 
