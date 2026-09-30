@@ -40,8 +40,8 @@ Desarrollador de software Full Stack, actualmente finalizando mi etapa lectiva e
 - 🛡️ **[Abalturas](https://github.com/alphaplus14/Abalturas)** — Tema WordPress/WooCommerce B2B para equipos de protección contra caídas, con checkout y catálogo a medida.
 
 ## 📊 Estadísticas de GitHub
-![Stats de Cesar](https://github-readme-stats.vercel.app/api?username=alphaplus14&show_icons=true&theme=default&hide_border=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=alphaplus14&layout=compact&hide_border=true)
+![Stats](./profile-summary-card-output/default/3-stats.svg)
+![Lenguajes](./profile-summary-card-output/default/1-repos-language.svg)
 
 ## 📫 Contáctame
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-rodas-2212b32b2)
