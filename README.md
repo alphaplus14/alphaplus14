@@ -41,7 +41,8 @@ Desarrollador de software Full Stack, actualmente finalizando mi etapa lectiva e
 
 ## 📊 Estadísticas de GitHub
 ![Stats](./profile-summary-card-output/default/3-stats.svg)
-![Lenguajes](./profile-summary-card-output/default/1-repos-per-language.svg)
+![Lenguajes por repo](./profile-summary-card-output/default/1-repos-per-language.svg)
+![Lenguajes por commits](./profile-summary-card-output/default/2-most-commit-language.svg)
 
 ## 📫 Contáctame
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-rodas-2212b32b2)
